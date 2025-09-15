@@ -1,6 +1,7 @@
 <h1 align="center">CLanguage_Mode_for_2</h1>
 <p align="center">CLRE-20</p>
 <p align="center"><a href="/README.md">Chinese version</a> | <a href="/EREADME.md">English version</a></p>
+
 ---
 
 # LSTM-Based Chinese Text Generation Model
