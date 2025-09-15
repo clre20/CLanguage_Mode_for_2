@@ -1,6 +1,6 @@
 <p align="center">
-  <b>模型名稱</b>: CLanguage_Mode_for_2<br>
-  <b>製作人</b>: CLRE-20<br>
+  <b></b>: # CLanguage_Mode_for_2<br>
+  <b></b>: # CLRE-20<br>
   <a href="#">中文版</a> | <a href="#">英文版</a>
 </p>
 
