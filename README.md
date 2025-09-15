@@ -2,11 +2,6 @@
 <p align="center">CLRE-20</p>
 <p align="center"><a href="/README.md">中文版</a> | <a href="/EREADME.md">英文版</a></p>
 ---
-
-明白了 ✅ 專業風格的 README 會保持簡潔乾淨，不會用表情符號，偏向技術文件的語氣。下面我幫你整理成正式版：
-
----
-
 ## README.zh.md (中文)
 
 # 基於 LSTM 的中文文字生成模型
