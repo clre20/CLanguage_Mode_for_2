@@ -79,7 +79,8 @@ def predict_next_word(model, prompt_text, word_to_id, id_to_word, device, seq_le
 
 # 5. 在主程式中測試
 # 你可以在這裡輸入你想讓模型預測的文字
-prompt = "字企業商業模式之九大要素分析上，而與指導教授討論受訪內容，並針對給予之建議進行再次修改，形成之正式談問卷采較為開放式大綱形式進行訪談。訪談提過成罐客戶群體，描述了一家企業想要獲得的或期望服務不同的目標人群和機構。"
+prompt = "這裡放提示"
 predicted_word = predict_next_word(model, prompt, word_to_id, id_to_word, device, seq_length)
 print(f"輸入文字: {prompt}")
+
 print(f"模型預測的下一個詞語是: {predicted_word}")
