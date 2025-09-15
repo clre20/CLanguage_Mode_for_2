@@ -1,6 +1,6 @@
 <h1 align="center">CLanguage_Mode_for_2</h1>
 <p align="center">CLRE-20</p>
-<p align="center"><a href="/README.md">中文版</a> | <a href="#">英文版</a></p>
+<p align="center"><a href="/README.md">中文版</a> | <a href="/EREADME.md">英文版</a></p>
 ---
 
 明白了 ✅ 專業風格的 README 會保持簡潔乾淨，不會用表情符號，偏向技術文件的語氣。下面我幫你整理成正式版：
