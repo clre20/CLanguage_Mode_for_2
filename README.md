@@ -1,8 +1,8 @@
 <h1 align="center">CLanguage_Mode_for_2</h1>
 <p align="center">CLRE-20</p>
 <p align="center"><a href="/README.md">中文版</a> | <a href="/EREADME.md">英文版</a></p>
+
 ---
-## README.zh.md (中文)
 
 # 基於 LSTM 的中文文字生成模型
 
