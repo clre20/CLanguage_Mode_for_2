@@ -1,9 +1,6 @@
-<p align="center">
-  <b></b>: # CLanguage_Mode_for_2<br>
-  <b></b>: # CLRE-20<br>
-  <a href="#">中文版</a> | <a href="#">英文版</a>
-</p>
-
+<h1 align="center">CLanguage_Mode_for_2</h1>
+<p align="center">CLRE-20</p>
+<p align="center"><a href="#">中文版</a> | <a href="#">英文版</a></p>
 ---
 
 
